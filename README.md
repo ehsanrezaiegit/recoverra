@@ -7,10 +7,6 @@
 
 [recoverra.netlify.app](https://recoverra.netlify.app)
 
-## 📸 Screenshot
-
-![Recoverra Screenshot](screenshot.png)
-
 ## ⚡ Features
 
 - ✅ Modern and clean UI design
