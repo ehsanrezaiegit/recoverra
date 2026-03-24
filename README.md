@@ -5,7 +5,7 @@
 
 ## 🔗 Live Demo
 
-[recoverra.netlify.app](https://recoverra.netlify.app)
+https://scintillating-genie-723b4c.netlify.app/
 
 ## ⚡ Features
 
