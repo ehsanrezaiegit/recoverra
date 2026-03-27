@@ -1,4 +1,4 @@
-# 💚 Recoverra – Web Application
+# Recoverra – Web Application
 
 > Modern web application with responsive UI 
 > and clean user experience.
